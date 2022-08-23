@@ -1,0 +1,189 @@
+#,Name,State,State Tax Rate,Cook PVI,City/Suburb,Region,Northeast?,Midwest?,South?,West?,% Change (2010-2020)
+0,New York City,New York,15.90,10,1,Northeast,1,0,0,0,7.69
+1,Los Angeles,California,13.50,13,1,West,0,0,0,1,2.67
+2,Chicago,Illinois,12.90,7,1,Midwest,0,1,0,0,1.92
+3,Houston,Texas,8.60,-5,1,South,0,0,1,0,9.69
+4,Phoenix,Arizona,9.50,-2,1,West,0,0,0,1,11.21
+5,Philadelphia,Pennsylvania,10.60,-2,1,Northeast,1,0,0,0,5.10
+6,San Antonio,Texas,8.60,-5,1,South,0,0,1,0,8.05
+7,San Diego,California,13.50,13,1,West,0,0,0,1,6.01
+8,Dallas,Texas,8.60,-5,1,South,0,0,1,0,8.90
+9,San Jose,California,13.50,13,1,West,0,0,0,1,7.25
+10,Austin,Texas,8.60,-5,1,South,0,0,1,0,21.40
+11,Jacksonville,Florida,9.10,-3,1,South,0,0,1,0,15.55
+12,Fort Worth,Texas,8.60,-5,1,South,0,0,1,0,23.90
+13,Columbus,Ohio,10.00,-6,1,Midwest,0,1,0,0,15.07
+14,Indianapolis,Indiana,9.30,-11,1,Midwest,0,1,0,0,8.20
+15,Charlotte,North Carolina,9.90,-3,1,South,0,0,1,0,19.57
+16,San Francisco,California,13.50,13,1,West,0,0,0,1,8.54
+17,Seattle,Washington,10.70,8,1,West,0,0,0,1,20.78
+18,Denver,Colorado,9.70,4,1,West,0,0,0,1,19.22
+19,Washington,District of Columbia,12.00,43,1,Northeast,1,0,0,0,14.60
+20,Nashville,Tennessee,7.60,-14,1,South,0,0,1,0,14.68
+21,Oklahoma City,Oklahoma,9.00,-20,1,South,0,0,1,0,17.48
+22,El Paso,Texas,8.60,-5,1,South,0,0,1,0,4.54
+23,Boston,Massachusetts,11.50,15,1,Northeast,1,0,0,0,9.49
+24,Portland,Oregon,10.80,6,1,West,0,0,0,1,11.70
+25,Las Vegas,Nevada,9.60,-1,1,West,0,0,0,1,9.95
+26,Detroit,Michigan,8.60,-1,1,Midwest,0,1,0,0,-10.39
+27,Louisville,Kentucky,9.60,-16,1,South,0,0,1,0,5.92
+28,Memphis,Tennessee,7.60,-14,1,South,0,0,1,0,-2.27
+29,Baltimore,Maryland,11.30,14,1,Northeast,1,0,0,0,-5.68
+30,Milwaukee,Wisconsin,10.90,-2,1,Midwest,0,1,0,0,-2.96
+31,Albuquerque,New Mexico,10.20,3,1,West,0,0,0,1,3.43
+32,Fresno,California,13.50,13,1,West,0,0,0,1,9.60
+33,Tucson,Arizona,9.50,-2,1,West,0,0,0,1,4.08
+34,Sacramento,California,13.50,13,1,West,0,0,0,1,12.06
+35,Kansas City,Missouri,9.30,-10,1,Midwest,0,1,0,0,10.48
+36,Mesa,Arizona,9.50,-2,0,West,0,0,0,1,14.91
+37,Atlanta,Georgia,8.90,-3,1,South,0,0,1,0,18.71
+38,Omaha,Nebraska,11.50,-13,1,Midwest,0,1,0,0,19.97
+39,Colorado Springs,Colorado,9.70,4,1,West,0,0,0,1,15.09
+40,Raleigh,North Carolina,9.90,-3,1,South,0,0,1,0,15.77
+41,Long Beach,California,13.50,13,0,West,0,0,0,1,0.88
+42,Virginia Beach,Virginia,12.50,3,1,South,0,0,1,0,4.90
+43,Miami,Florida,9.10,-3,1,South,0,0,1,0,10.72
+44,Oakland,California,13.50,13,0,West,0,0,0,1,12.44
+45,Minneapolis,Minnesota,12.10,1,1,Midwest,0,1,0,0,11.98
+46,Tulsa,Oklahoma,9.00,-20,1,South,0,0,1,0,5.24
+47,Bakersfield,California,13.50,13,1,West,0,0,0,1,15.95
+48,Wichita,Kansas,11.20,-10,1,Midwest,0,1,0,0,3.84
+49,Arlington,Texas,8.60,-5,0,South,0,0,1,0,7.88
+50,Aurora,Colorado,9.70,4,1,West,0,0,0,1,18.81
+51,New Orleans,Louisiana,9.10,-12,1,South,0,0,1,0,11.68
+52,Tampa,Florida,9.10,-3,1,South,0,0,1,0,14.02
+53,Cleveland,Ohio,10.00,-6,1,Midwest,0,1,0,0,-5.98
+54,Honolulu,Hawaii,14.10,14,1,West,0,0,0,1,4.06
+55,Anaheim,California,13.50,13,0,West,0,0,0,1,3.20
+56,Lexington,Kentucky,9.60,-16,1,South,0,0,1,0,9.05
+57,Stockton,California,13.50,13,1,West,0,0,0,1,9.96
+58,Corpus Christi,Texas,8.60,-5,1,South,0,0,1,0,4.17
+59,Henderson,Nevada,9.60,-1,0,West,0,0,0,1,23.20
+60,Riverside,California,13.50,13,1,West,0,0,0,1,3.45
+61,St. Paul,Minnesota,12.10,1,1,Midwest,0,1,0,0,9.25
+62,Newark,New Jersey,13.20,6,0,Northeast,1,0,0,0,12.17
+63,Santa Ana,California,13.50,13,0,West,0,0,0,1,-4.31
+64,Cincinnati,Ohio,10.00,-6,1,Midwest,0,1,0,0,4.48
+65,Orlando,Florida,9.10,-3,1,South,0,0,1,0,29.11
+66,Irvine,California,13.50,13,0,West,0,0,0,1,43.76
+67,Pittsburgh,Pennsylvania,10.60,-2,1,Northeast,1,0,0,0,-0.83
+68,St. Louis,Missouri,9.30,-10,1,Midwest,0,1,0,0,-5.55
+69,Greensboro,North Carolina,9.90,-3,1,South,0,0,1,0,10.47
+70,Jersey City,New Jersey,13.20,6,0,Northeast,1,0,0,0,18.10
+71,Anchorage,Alaska,4.60,-8,1,West,0,0,0,1,-0.20
+72,Lincoln,Nebraska,11.50,-13,1,Midwest,0,1,0,0,12.67
+73,Plano,Texas,8.60,-5,0,South,0,0,1,0,10.03
+74,Durham,North Carolina,9.90,-3,1,South,0,0,1,0,24.18
+75,Buffalo,New York,15.90,10,1,Northeast,1,0,0,0,6.50
+76,Chandler,Arizona,9.50,-2,0,West,0,0,0,1,17.03
+77,Chula Vista,California,13.50,13,0,West,0,0,0,1,13.16
+78,Toledo,Ohio,10.00,-6,1,Midwest,0,1,0,0,-5.74
+79,Madison,Wisconsin,10.90,-2,1,Midwest,0,1,0,0,15.10
+80,Gilbert,Arizona,9.50,-2,0,West,0,0,0,1,28.71
+81,Fort Wayne,Indiana,9.30,-11,1,Midwest,0,1,0,0,4.01
+82,Reno,Nevada,9.60,-1,1,West,0,0,0,1,16.97
+83,North Las Vegas,Nevada,9.60,-1,0,West,0,0,0,1,21.07
+84,St. Petersburg,Florida,9.10,-3,0,South,0,0,1,0,5.52
+85,Lubbock,Texas,8.60,-5,1,South,0,0,1,0,12.03
+86,Irving,Texas,8.60,-5,0,South,0,0,1,0,18.73
+87,Laredo,Texas,8.60,-5,1,South,0,0,1,0,8.09
+88,Chesapeake,Virginia,12.50,3,0,South,0,0,1,0,12.25
+89,Glendale,Arizona,9.50,-2,0,West,0,0,0,1,9.54
+90,Garland,Texas,8.60,-5,0,South,0,0,1,0,8.49
+91,Scottsdale,Arizona,9.50,-2,0,West,0,0,0,1,11.09
+92,Norfolk,Virginia,12.50,3,0,South,0,0,1,0,-1.98
+93,Boise,Idaho,10.70,-18,1,West,0,0,0,1,14.59
+94,Fremont,California,13.50,13,0,West,0,0,0,1,8.41
+95,Santa Clarita,California,13.50,13,0,West,0,0,0,1,30.00
+96,Spokane,Washington,10.70,8,1,West,0,0,0,1,9.53
+97,Richmond,Virginia,12.50,3,1,South,0,0,1,0,10.97
+98,Baton Rouge,Louisiana,9.10,-12,1,South,0,0,1,0,-1.90
+99,Hialeah,Florida,9.10,-3,0,South,0,0,1,0,-0.74
+100,San Bernardino,California,13.50,13,0,West,0,0,0,1,5.70
+101,Tacoma,Washington,10.70,8,0,West,0,0,0,1,10.40
+102,Modesto,California,13.50,13,0,West,0,0,0,1,8.60
+103,Huntsville,Alabama,9.80,-15,1,South,0,0,1,0,19.03
+104,Des Moines,Iowa,11.20,-6,1,Midwest,0,1,0,0,5.26
+105,Yonkers,New York,15.90,10,0,Northeast,1,0,0,0,7.79
+106,Rochester,New York,15.90,10,1,Northeast,1,0,0,0,0.32
+107,Fayetteville,North Carolina,9.90,-3,1,South,0,0,1,0,4.14
+108,Moreno Valley,California,13.50,13,0,West,0,0,0,1,8.02
+109,Fontana,California,13.50,13,0,West,0,0,0,1,6.48
+110,Columbus,Georgia,8.90,-3,1,South,0,0,1,0,8.97
+111,Worcester,Massachusetts,11.50,15,1,Northeast,1,0,0,0,14.12
+112,Port St. Lucie,Florida,9.10,-3,0,South,0,0,1,0,24.49
+113,Little Rock,Arkansas,10.20,-16,1,South,0,0,1,0,4.65
+114,Oxnard,California,13.50,13,0,West,0,0,0,1,2.17
+115,Amarillo,Texas,8.60,-5,0,South,0,0,1,0,5.35
+116,Birmingham,Alabama,9.80,-15,1,South,0,0,1,0,-5.41
+117,Frisco,Texas,8.60,-5,0,South,0,0,1,0,71.53
+118,Montgomery,Alabama,9.80,-15,1,South,0,0,1,0,-2.53
+119,Huntington Beach,California,13.50,13,0,West,0,0,0,1,4.81
+120,Salt Lake City,Utah,12.10,-13,1,West,0,0,0,1,6.60
+121,Grand Rapids,Michigan,8.60,-1,1,Midwest,0,1,0,0,5.56
+122,Overland Park,Kansas,11.20,-10,0,Midwest,0,1,0,0,13.80
+123,Glendale,California,13.50,13,0,West,0,0,0,1,2.67
+124,Grand Prairie,Texas,8.60,-5,0,South,0,0,1,0,11.90
+125,Tallahassee,Florida,9.10,-3,1,South,0,0,1,0,8.10
+126,McKinney,Texas,8.60,-5,0,South,0,0,1,0,48.77
+127,Cape Coral,Florida,9.10,-3,1,South,0,0,1,0,26.36
+128,Sioux Falls,South Dakota,8.40,-16,1,Midwest,0,1,0,0,25.21
+129,Peoria,Arizona,9.50,-2,0,West,0,0,0,1,24.01
+130,Vancouver,Washington,10.70,8,0,West,0,0,0,1,17.94
+131,Akron,Ohio,10.00,-6,1,Midwest,0,1,0,0,-4.31
+132,Providence,Rhode Island,11.40,8,1,Northeast,1,0,0,0,6.88
+133,Knoxville,Tennessee,7.60,-14,1,South,0,0,1,0,6.23
+134,Shreveport,Louisiana,9.10,-12,1,South,0,0,1,0,-5.68
+135,Mobile,Alabama,9.80,-15,1,South,0,0,1,0,-4.24
+136,Brownsville,Texas,8.60,-5,1,South,0,0,1,0,6.62
+137,Newport News,Virginia,12.50,3,0,South,0,0,1,0,3.06
+138,Fort Lauderdale,Florida,9.10,-3,0,South,0,0,1,0,10.45
+139,Chattanooga,Tennessee,7.60,-14,1,South,0,0,1,0,8.09
+140,Aurora,Illinois,12.90,7,0,Midwest,0,1,0,0,-8.70
+141,Tempe,Arizona,9.50,-2,0,West,0,0,0,1,11.16
+142,Santa Rosa,California,13.50,13,0,West,0,0,0,1,6.16
+143,Elk Grove,California,13.50,13,0,West,0,0,0,1,15.77
+144,Ontario,California,13.50,13,0,West,0,0,0,1,7.07
+145,Salem,Oregon,10.80,6,1,West,0,0,0,1,13.45
+146,Cary,North Carolina,9.90,-3,0,South,0,0,1,0,29.22
+147,Eugene,Oregon,10.80,6,1,West,0,0,0,1,11.89
+148,Rancho Cucamonga,California,13.50,13,0,West,0,0,0,1,5.66
+149,Oceanside,California,13.50,13,0,West,0,0,0,1,4.35
+150,Lancaster,California,13.50,13,0,West,0,0,0,1,10.64
+151,Garden Grove,California,13.50,13,0,West,0,0,0,1,0.74
+152,Pembroke Pines,Florida,9.10,-3,0,South,0,0,1,0,10.61
+153,Palmdale,California,13.50,13,0,West,0,0,0,1,11.24
+154,Springfield,Missouri,9.30,-10,1,Midwest,0,1,0,0,6.44
+155,Fort Collins,Colorado,9.70,4,1,West,0,0,0,1,17.35
+156,Clarksville,Tennessee,7.60,-14,1,South,0,0,1,0,25.36
+157,Salinas,California,13.50,13,1,West,0,0,0,1,8.80
+158,Hayward,California,13.50,13,0,West,0,0,0,1,13.49
+159,Paterson,New Jersey,13.20,6,0,Northeast,1,0,0,0,9.22
+160,Alexandria,Virginia,12.50,3,0,South,0,0,1,0,13.93
+161,Corona,California,13.50,13,0,West,0,0,0,1,3.21
+162,Sunnyvale,California,13.50,13,0,West,0,0,0,1,11.57
+163,Springfield,Massachusetts,11.50,15,1,Northeast,1,0,0,0,1.86
+164,Hollywood,Florida,9.10,-3,0,South,0,0,1,0,8.73
+165,Killeen,Texas,8.60,-5,1,South,0,0,1,0,19.27
+166,Murfreesboro,Tennessee,7.60,-14,0,South,0,0,1,0,40.17
+167,Bellevue,Washington,10.70,8,0,West,0,0,0,1,24.26
+168,Pasadena,Texas,8.60,-5,0,South,0,0,1,0,1.95
+169,Pomona,California,13.50,13,0,West,0,0,0,1,1.67
+170,Escondido,California,13.50,13,0,West,0,0,0,1,5.11
+171,Charleston,South Carolina,8.90,-8,1,South,0,0,1,0,25.35
+172,Joliet,Illinois,12.90,7,0,Midwest,0,1,0,0,1.98
+173,Mesquite,Texas,8.60,-5,0,South,0,0,1,0,7.50
+174,Naperville,Illinois,12.90,7,0,Midwest,0,1,0,0,5.34
+175,Rockford,Illinois,12.90,7,1,Midwest,0,1,0,0,-2.53
+176,Bridgeport,Connecticut,15.40,7,1,Northeast,1,0,0,0,3.09
+177,Savannah,Georgia,8.90,-3,1,South,0,0,1,0,8.66
+178,Roseville,California,13.50,13,0,West,0,0,0,1,24.44
+179,Syracuse,New York,15.90,10,1,Northeast,1,0,0,0,1.51
+180,Torrance,California,13.50,13,0,West,0,0,0,1,1.30
+181,Fullerton,California,13.50,13,0,West,0,0,0,1,6.07
+182,Surprise,Arizona,9.50,-2,0,West,0,0,0,1,21.91
+183,McAllen,Texas,8.60,-5,1,South,0,0,1,0,9.52
+184,Thornton,Colorado,9.70,4,0,West,0,0,0,1,19.50
+185,Visalia,California,13.50,13,1,West,0,0,0,1,13.76
+186,Denton,Texas,8.60,-5,0,South,0,0,1,0,24.47
+187,Kent,Washington,10.70,8,0,West,0,0,0,1,47.98

@@ -1,0 +1,189 @@
+#,Name,State,% of Bachelor,Unemployment Rate,% of People at or Below 125% Poverty Line,% of People at or over 500% Poverty Line,Ratio of Poor/Rich,% Change (2010-2020)
+0,New York City,New York,39.39,6.60,21.97,31.04,0.71,7.69
+1,Los Angeles,California,35.83,6.76,22.20,27.11,0.82,2.67
+2,Chicago,Illinois,41.46,8.06,22.11,28.92,0.76,1.92
+3,Houston,Texas,34.52,6.21,25.55,23.12,1.11,9.69
+4,Phoenix,Arizona,29.57,5.34,21.01,22.59,0.93,11.21
+5,Philadelphia,Pennsylvania,31.43,8.81,28.26,20.76,1.36,5.10
+6,San Antonio,Texas,26.56,5.90,23.25,18.99,1.22,8.05
+7,San Diego,California,46.98,5.93,15.47,37.59,0.41,6.01
+8,Dallas,Texas,34.91,4.90,24.38,22.75,1.07,8.90
+9,San Jose,California,44.89,4.60,11.06,48.34,0.23,7.25
+10,Austin,Texas,53.56,4.27,15.84,36.76,0.43,21.40
+11,Jacksonville,Florida,29.49,5.41,19.53,23.51,0.83,15.55
+12,Fort Worth,Texas,30.41,5.66,18.56,24.66,0.75,23.90
+13,Columbus,Ohio,37.03,5.34,23.73,20.95,1.13,15.07
+14,Indianapolis,Indiana,32.43,5.73,22.15,20.69,1.07,8.20
+15,Charlotte,North Carolina,44.97,4.87,16.22,30.44,0.53,19.57
+16,San Francisco,California,58.89,4.50,12.92,53.11,0.24,8.54
+17,Seattle,Washington,65.38,3.89,12.60,51.48,0.24,20.78
+18,Denver,Colorado,50.68,4.34,15.79,34.33,0.46,19.22
+19,Washington,District of Columbia,60.30,7.03,18.71,46.50,0.40,14.60
+20,Nashville,Tennessee,43.21,4.67,18.54,26.89,0.69,14.68
+21,Oklahoma City,Oklahoma,31.85,4.59,20.35,24.12,0.84,17.48
+22,El Paso,Texas,26.13,6.25,25.16,15.98,1.57,4.54
+23,Boston,Massachusetts,51.56,6.23,21.78,36.19,0.60,9.49
+24,Portland,Oregon,51.27,5.22,16.76,36.16,0.46,11.70
+25,Las Vegas,Nevada,25.43,6.87,19.60,23.12,0.85,9.95
+26,Detroit,Michigan,16.40,14.92,40.51,9.54,4.25,-10.39
+27,Louisville,Kentucky,30.73,5.62,20.10,25.06,0.80,5.92
+28,Memphis,Tennessee,27.07,8.52,30.97,16.68,1.86,-2.27
+29,Baltimore,Maryland,33.26,7.49,24.95,24.27,1.03,-5.68
+30,Milwaukee,Wisconsin,24.79,6.39,31.48,13.67,2.30,-2.96
+31,Albuquerque,New Mexico,36.55,5.58,21.24,23.61,0.90,3.43
+32,Fresno,California,23.09,9.48,29.09,17.16,1.70,9.60
+33,Tucson,Arizona,28.78,7.36,27.12,15.40,1.76,4.08
+34,Sacramento,California,34.53,6.64,20.86,26.31,0.79,12.06
+35,Kansas City,Missouri,35.96,4.94,19.97,25.31,0.79,10.48
+36,Mesa,Arizona,28.13,5.11,17.34,23.90,0.73,14.91
+37,Atlanta,Georgia,54.29,6.57,24.09,35.52,0.68,18.71
+38,Omaha,Nebraska,38.70,4.33,16.74,27.53,0.61,19.97
+39,Colorado Springs,Colorado,39.84,5.69,15.36,29.24,0.53,15.09
+40,Raleigh,North Carolina,52.19,4.28,15.70,33.97,0.46,15.77
+41,Long Beach,California,31.94,6.58,20.96,27.15,0.77,0.88
+42,Virginia Beach,Virginia,37.45,4.38,9.39,33.97,0.28,4.90
+43,Miami,Florida,31.84,5.73,28.83,18.72,1.54,10.72
+44,Oakland,California,46.21,5.95,18.82,36.02,0.52,12.44
+45,Minneapolis,Minnesota,52.16,5.10,22.58,31.40,0.72,11.98
+46,Tulsa,Oklahoma,31.60,6.19,23.99,22.05,1.09,5.24
+47,Bakersfield,California,22.70,7.59,23.06,21.75,1.06,15.95
+48,Wichita,Kansas,30.94,5.57,20.57,21.81,0.94,3.84
+49,Arlington,Texas,31.00,5.14,18.80,23.89,0.79,7.88
+50,Aurora,Colorado,30.03,5.16,14.08,25.60,0.55,18.81
+51,New Orleans,Louisiana,38.41,8.63,28.61,23.71,1.21,11.68
+52,Tampa,Florida,39.98,5.66,22.42,28.32,0.79,14.02
+53,Cleveland,Ohio,18.78,12.42,39.08,10.82,3.61,-5.98
+54,Honolulu,Hawaii,38.18,4.07,13.57,36.10,0.38,4.06
+55,Anaheim,California,26.69,5.21,17.92,26.95,0.67,3.20
+56,Lexington,Kentucky,45.61,5.03,20.47,29.19,0.70,9.05
+57,Stockton,California,18.62,8.10,23.36,17.10,1.37,9.96
+58,Corpus Christi,Texas,22.25,5.28,20.62,21.56,0.96,4.17
+59,Henderson,Nevada,34.19,7.03,11.24,35.51,0.32,23.20
+60,Riverside,California,24.23,6.20,18.48,23.86,0.77,3.45
+61,St. Paul,Minnesota,41.56,4.82,23.42,24.43,0.96,9.25
+62,Newark,New Jersey,15.93,10.63,33.80,12.88,2.62,12.17
+63,Santa Ana,California,16.89,5.11,19.86,15.05,1.32,-4.31
+64,Cincinnati,Ohio,39.00,7.18,30.27,21.49,1.41,4.48
+65,Orlando,Florida,40.08,5.04,21.67,23.70,0.91,29.11
+66,Irvine,California,69.52,5.13,14.64,51.69,0.28,43.76
+67,Pittsburgh,Pennsylvania,46.40,5.20,24.23,25.32,0.96,-0.83
+68,St. Louis,Missouri,37.68,5.88,26.48,20.66,1.28,-5.55
+69,Greensboro,North Carolina,39.75,6.24,23.58,21.99,1.07,10.47
+70,Jersey City,New Jersey,50.08,5.28,19.24,35.46,0.54,18.10
+71,Anchorage,Alaska,36.97,5.21,11.59,37.93,0.31,-0.20
+72,Lincoln,Nebraska,40.59,3.18,16.78,25.33,0.66,12.67
+73,Plano,Texas,57.77,4.01,8.91,46.09,0.19,10.03
+74,Durham,North Carolina,51.45,4.64,18.14,30.68,0.59,24.18
+75,Buffalo,New York,28.79,7.53,34.87,16.64,2.10,6.50
+76,Chandler,Arizona,44.61,4.26,9.96,40.10,0.25,17.03
+77,Chula Vista,California,29.28,9.66,12.17,33.65,0.36,13.16
+78,Toledo,Ohio,18.98,8.57,31.40,12.25,2.56,-5.74
+79,Madison,Wisconsin,58.94,2.62,19.08,33.02,0.58,15.10
+80,Gilbert,Arizona,45.30,4.09,6.83,41.27,0.17,28.71
+81,Fort Wayne,Indiana,28.40,5.86,21.10,18.30,1.15,4.01
+82,Reno,Nevada,35.12,5.30,17.59,27.30,0.64,16.97
+83,North Las Vegas,Nevada,17.30,7.94,17.39,15.82,1.10,21.07
+84,St. Petersburg,Florida,37.35,4.59,15.85,29.90,0.53,5.52
+85,Lubbock,Texas,34.13,3.69,24.88,21.15,1.18,12.03
+86,Irving,Texas,38.68,4.29,16.46,24.90,0.66,18.73
+87,Laredo,Texas,19.41,5.40,30.53,12.05,2.53,8.09
+88,Chesapeake,Virginia,35.39,5.24,10.67,37.37,0.29,12.25
+89,Glendale,Arizona,21.84,5.76,23.16,18.63,1.24,9.54
+90,Garland,Texas,23.13,5.40,17.75,18.37,0.97,8.49
+91,Scottsdale,Arizona,59.66,3.35,8.92,52.39,0.17,11.09
+92,Norfolk,Virginia,30.52,7.76,22.75,20.38,1.12,-1.98
+93,Boise,Idaho,42.84,4.62,15.35,29.94,0.51,14.59
+94,Fremont,California,58.86,3.97,5.66,62.85,0.09,8.41
+95,Santa Clarita,California,37.38,5.01,12.15,43.87,0.28,30.00
+96,Spokane,Washington,32.13,5.72,21.42,21.17,1.01,9.53
+97,Richmond,Virginia,41.48,5.96,25.80,23.82,1.08,10.97
+98,Baton Rouge,Louisiana,35.11,8.46,30.38,22.80,1.33,-1.90
+99,Hialeah,Florida,17.67,4.08,27.47,9.02,3.05,-0.74
+100,San Bernardino,California,12.24,8.57,31.08,12.20,2.55,5.70
+101,Tacoma,Washington,30.41,4.78,17.66,28.31,0.62,10.40
+102,Modesto,California,19.37,8.47,18.11,21.82,0.83,8.60
+103,Huntsville,Alabama,44.94,4.94,19.84,32.17,0.62,19.03
+104,Des Moines,Iowa,28.06,5.94,21.82,19.18,1.14,5.26
+105,Yonkers,New York,34.60,6.83,18.38,33.92,0.54,7.79
+106,Rochester,New York,27.25,8.86,36.98,13.40,2.76,0.32
+107,Fayetteville,North Carolina,27.76,8.33,25.74,16.43,1.57,4.14
+108,Moreno Valley,California,17.07,8.27,18.55,16.42,1.13,8.02
+109,Fontana,California,19.01,5.95,15.40,21.04,0.73,6.48
+110,Columbus,Georgia,27.97,8.54,25.12,19.51,1.29,8.97
+111,Worcester,Massachusetts,31.39,5.05,24.85,23.20,1.07,14.12
+112,Port St. Lucie,Florida,23.43,5.01,13.05,22.52,0.58,24.49
+113,Little Rock,Arkansas,42.89,4.09,20.09,27.67,0.73,4.65
+114,Oxnard,California,18.47,6.17,17.49,17.99,0.97,2.17
+115,Amarillo,Texas,23.45,3.79,21.87,20.69,1.06,5.35
+116,Birmingham,Alabama,29.27,8.28,30.96,15.04,2.06,-5.41
+117,Frisco,Texas,64.57,3.73,5.43,63.15,0.09,71.53
+118,Montgomery,Alabama,33.89,6.74,25.94,20.53,1.26,-2.53
+119,Huntington Beach,California,43.68,4.82,10.12,48.89,0.21,4.81
+120,Salt Lake City,Utah,48.65,3.76,19.81,28.75,0.69,6.60
+121,Grand Rapids,Michigan,38.38,5.74,25.54,16.90,1.51,5.56
+122,Overland Park,Kansas,61.56,3.16,6.03,48.69,0.12,13.80
+123,Glendale,California,41.86,7.54,18.68,36.07,0.52,2.67
+124,Grand Prairie,Texas,23.94,5.45,17.10,22.45,0.76,11.90
+125,Tallahassee,Florida,49.47,6.38,30.15,20.57,1.47,8.10
+126,McKinney,Texas,49.59,3.47,8.99,45.35,0.20,48.77
+127,Cape Coral,Florida,23.16,5.69,13.59,25.22,0.54,26.36
+128,Sioux Falls,South Dakota,35.47,2.84,13.72,25.43,0.54,25.21
+129,Peoria,Arizona,34.25,4.44,12.03,34.30,0.35,24.01
+130,Vancouver,Washington,30.08,5.00,16.88,24.73,0.68,17.94
+131,Akron,Ohio,21.71,8.79,29.44,13.83,2.13,-4.31
+132,Providence,Rhode Island,32.60,7.16,28.93,18.69,1.55,6.88
+133,Knoxville,Tennessee,33.64,5.45,29.70,16.40,1.81,6.23
+134,Shreveport,Louisiana,26.60,7.11,31.49,19.05,1.65,-5.68
+135,Mobile,Alabama,31.65,6.25,25.31,19.33,1.31,-4.24
+136,Brownsville,Texas,19.84,6.04,35.76,8.19,4.37,6.62
+137,Newport News,Virginia,28.26,5.63,19.45,21.67,0.90,3.06
+138,Fort Lauderdale,Florida,37.73,6.21,20.65,30.18,0.68,10.45
+139,Chattanooga,Tennessee,31.93,5.14,23.14,22.69,1.02,8.09
+140,Aurora,Illinois,33.15,6.03,15.01,28.98,0.52,-8.70
+141,Tempe,Arizona,46.56,5.87,23.42,25.25,0.93,11.16
+142,Santa Rosa,California,34.04,5.24,12.75,34.21,0.37,6.16
+143,Elk Grove,California,36.77,5.54,10.55,40.70,0.26,15.77
+144,Ontario,California,18.04,6.46,18.34,17.43,1.05,7.07
+145,Salem,Oregon,30.53,6.12,20.43,21.82,0.94,13.45
+146,Cary,North Carolina,68.68,3.26,6.80,54.88,0.12,29.22
+147,Eugene,Oregon,43.20,6.97,24.76,25.86,0.96,11.89
+148,Rancho Cucamonga,California,36.52,5.50,10.02,41.41,0.24,5.66
+149,Oceanside,California,31.64,5.69,13.90,31.85,0.44,4.35
+150,Lancaster,California,19.88,6.58,25.97,18.17,1.43,10.64
+151,Garden Grove,California,22.80,5.02,17.65,22.69,0.78,0.74
+152,Pembroke Pines,Florida,33.64,5.00,13.10,30.39,0.43,10.61
+153,Palmdale,California,15.74,7.40,22.37,16.68,1.34,11.24
+154,Springfield,Missouri,29.19,4.90,28.89,13.13,2.20,6.44
+155,Fort Collins,Colorado,56.33,5.46,19.31,32.03,0.60,17.35
+156,Clarksville,Tennessee,28.54,6.47,18.18,18.00,1.01,25.36
+157,Salinas,California,16.10,5.01,21.27,17.35,1.23,8.80
+158,Hayward,California,29.89,5.09,10.86,33.56,0.32,13.49
+159,Paterson,New Jersey,11.53,7.44,31.62,11.37,2.78,9.22
+160,Alexandria,Virginia,65.44,3.29,12.48,53.46,0.23,13.93
+161,Corona,California,27.98,4.28,13.46,33.39,0.40,3.21
+162,Sunnyvale,California,66.07,3.79,6.92,62.88,0.11,11.57
+163,Springfield,Massachusetts,19.02,8.97,32.07,15.62,2.05,1.86
+164,Hollywood,Florida,28.63,6.20,16.39,22.43,0.73,8.73
+165,Killeen,Texas,20.46,10.33,22.49,13.41,1.68,19.27
+166,Murfreesboro,Tennessee,39.73,4.84,16.94,25.56,0.66,40.17
+167,Bellevue,Washington,69.20,3.52,8.30,62.70,0.13,24.26
+168,Pasadena,Texas,14.99,9.79,24.23,16.83,1.44,1.95
+169,Pomona,California,17.65,6.14,23.67,15.17,1.56,1.67
+170,Escondido,California,24.61,4.67,19.01,23.91,0.79,5.11
+171,Charleston,South Carolina,54.54,3.40,14.95,38.00,0.39,25.35
+172,Joliet,Illinois,23.55,5.88,14.29,28.18,0.51,1.98
+173,Mesquite,Texas,17.75,4.65,17.66,15.65,1.13,7.50
+174,Naperville,Illinois,70.48,4.19,4.68,63.28,0.07,5.34
+175,Rockford,Illinois,22.68,9.59,28.49,16.68,1.71,-2.53
+176,Bridgeport,Connecticut,19.79,11.47,28.98,16.95,1.71,3.09
+177,Savannah,Georgia,30.02,7.92,26.46,16.96,1.56,8.66
+178,Roseville,California,43.67,4.96,9.26,48.98,0.19,24.44
+179,Syracuse,New York,29.34,8.89,36.46,15.67,2.33,1.51
+180,Torrance,California,51.93,4.84,9.22,48.74,0.19,1.30
+181,Fullerton,California,43.09,6.75,16.41,36.94,0.44,6.07
+182,Surprise,Arizona,29.26,4.73,9.90,25.10,0.39,21.91
+183,McAllen,Texas,31.53,5.68,30.91,18.20,1.70,9.52
+184,Thornton,Colorado,28.34,4.00,12.59,31.61,0.40,19.50
+185,Visalia,California,22.77,5.39,19.86,24.11,0.82,13.76
+186,Denton,Texas,40.15,4.42,19.75,27.06,0.73,24.47
+187,Kent,Washington,27.44,6.77,15.50,27.53,0.56,47.98
